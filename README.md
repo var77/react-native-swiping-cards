@@ -33,11 +33,11 @@ class App extends Component {
 }
 ```
 
--- See [example app](https://github.com/var77/react-native-swiping-cards/blob/master/example) for more complex example.
+> See [example app](https://github.com/var77/react-native-swiping-cards/blob/master/example) for more complex example.
 
 ### Props
 
--- If no callback or animation end function is passed, the event won't be triggered and card will return to it's position
+> If no callback or animation end function is passed, the event won't be triggered and card will return to it's position
 
 | Name | Type | Description |
 |---|---|---|

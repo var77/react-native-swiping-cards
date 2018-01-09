@@ -1,0 +1,27 @@
+{
+  "name": "react-native-swiping-cards",
+  "version": "1.0.0",
+  "description": "Swiping cards like tinder cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/var77/react-native-swiping-cards.git"
+  },
+  "keywords": [
+    "react-native",
+    "tinder",
+    "cards",
+    "swipe",
+    "card",
+    "swiper"
+  ],
+  "author": "var77",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/var77/react-native-swiping-cards/issues"
+  },
+  "homepage": "https://github.com/var77/react-native-swiping-cards#readme"
+}
